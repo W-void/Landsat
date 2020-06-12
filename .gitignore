@@ -1,0 +1,13 @@
+*.tiff
+*.png
+![0-9].png
+.DS_store
+.vscode/
+*.aux
+*.log
+*.gz
+VOC2012/
+log/events*
+checkpoints_unet/
+checkpoints_attention/
+!checkpoints_attention/SpoonNetSpretral*.pt
